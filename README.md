@@ -31,15 +31,3 @@ The model predicts the species of an Iris flower (Setosa, Versicolor, Virginica)
 
 ## 📊 Example
 
-**Request**
-```json
-{
-  "sepal_length": 5.1,
-  "sepal_width": 3.5,
-  "petal_length": 1.4,
-  "petal_width": 0.2
-}
-
-👉 The very last line `EOT` (with no spaces before or after) is required to close the file-writing block.  
-
-Would you like me to also give you the `git add/commit/push` commands so you can send this `README.md` to GitHub right after running this?
